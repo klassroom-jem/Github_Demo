@@ -10,3 +10,4 @@
 | Aniruddha   | ani-codes24     | English            |
 | Sakshi      | sakshiot4       | Python             | 
 | Vedant M.   | Vedant-Manjrekar| JavaScript         |
+|Prathamesh   |prathameshsail72-hue| Python          |
